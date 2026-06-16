@@ -221,7 +221,7 @@ streamlit run app.py
 - Matplotlib
 - Seaborn
 
----
+--- https://student-stress-performance-athavfwqukfubgvtvqkvfu.streamlit.app/
 
 # Kesimpulan
 
