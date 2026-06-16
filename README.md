@@ -28,8 +28,8 @@ Kedua model dibandingkan untuk menentukan model dengan performa terbaik yang kem
 
 | Nama | NIM |
 |--------|--------|
-| Nama Anggota 1 | NIM |
-| Nama Anggota 2 | NIM |
+| M Syahdan Razaqa Yuhanas | 2330511107|
+
 
 ---
 
