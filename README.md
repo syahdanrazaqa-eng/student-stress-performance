@@ -135,8 +135,8 @@ Metrik evaluasi yang digunakan:
 
 | Model | Accuracy |
 |---------|---------|
-| Random Forest | 10000% |
-| XGBoost | 10000% |
+| Random Forest | 97.50% |
+| XGBoost | 98.25% |
 
 Model dengan akurasi terbaik dipilih sebagai model final untuk deployment.
 
