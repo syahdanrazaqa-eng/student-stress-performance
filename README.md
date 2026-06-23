@@ -204,17 +204,6 @@ streamlit run app.py
 
 ---
 
-# Teknologi yang Digunakan
-
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- XGBoost
-- Streamlit
-- Matplotlib
-- Seaborn
-
 --- https://student-stress-performance-athavfwqukfubgvtvqkvfu.streamlit.app/
 
 # Kesimpulan
