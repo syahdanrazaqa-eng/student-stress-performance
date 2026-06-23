@@ -1,13 +1,4 @@
----
-title: Prediksi Tingkat Stres Mahasiswa
-emoji: 🎓
-colorFrom: blue
-colorTo: purple
-sdk: streamlit
-app_file: app.py
-pinned: false
-license: apache-2.0
----
+
 
 # Prediksi Tingkat Stres Mahasiswa Menggunakan Perbandingan Random Forest dan XGBoost
 
