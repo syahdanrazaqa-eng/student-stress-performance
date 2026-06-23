@@ -133,9 +133,12 @@ Metrik evaluasi yang digunakan:
 
 ### Hasil Perbandingan
 
-Model	Accuracy	Precision	Recall	F1-Score
+
+Model	      Accuracy	Precision	Recall	F1-Score
 Random Forest	97.50%	  97.40%	97.50%	97.40%
 XGBoost	        98.25%	  98.20%	98.30%	98.20%|
+
+
 
 Model dengan akurasi terbaik dipilih sebagai model final untuk deployment.
 
